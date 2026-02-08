@@ -27,7 +27,7 @@ I'm **Ernie**, a Computer Engineer and Robotics Enthusiast passionate about buil
 
 ## 📈 GitHub Statistics
 
-![ErnieCodingFirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnieCodingFirst&show_icons=true&theme=radical)
+![[under construction]](https://github-readme-stats.vercel.app/api?username=ErnieCodingFirst&show_icons=true&theme=radical)
 
 ## 🚀 Featured Projects
 
