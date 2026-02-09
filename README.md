@@ -1,7 +1,7 @@
 # 1% Better. Every day
 
 I'm **Ernie**, a Computer Engineer and Robotics Enthusiast passionate about building intelligent systems and contributing to innovation
----
+
 
 ## 🎯 About Me
 
