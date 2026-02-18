@@ -44,3 +44,5 @@ I'm **Ernie**, a Computer Engineer and Robotics Enthusiast passionate about buil
 ## 📊 Contribution Activity
 
 Feel free to explore my repositories, fork projects you find interesting, and don't hesitate to reach out with questions or collaboration opportunities! Whether it's robotics, embedded systems, or open-source contributions, I'm always excited to connect with like-minded engineers.
+
+![My GitHub Game](game.gif)
