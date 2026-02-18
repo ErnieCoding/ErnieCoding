@@ -14,11 +14,9 @@ I'm **Ernie**, a Computer Engineer and Robotics Enthusiast passionate about buil
 ## 🛠️ Tech Stack
 
 **Languages:**
-- C
-- C++
-- Python
-- TypeScript
-- Java
+- C            - C++
+- Assembly     - Java
+- Python       - TypeScript/JavaScript
 
 **Specializations:**
 - Embedded Systems
